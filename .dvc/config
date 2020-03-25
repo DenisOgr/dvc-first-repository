@@ -1,0 +1,2 @@
+['remote "gcp"']
+    url = gs://first-repository-denys
